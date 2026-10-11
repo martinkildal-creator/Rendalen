@@ -1,3 +1,0 @@
-# Rendalen Omsorg - intern presentasjon, skal ikke indekseres
-User-agent: *
-Disallow: /
